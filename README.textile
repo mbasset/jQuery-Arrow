@@ -1,0 +1,5 @@
+github suggested I add a readme file. See below.
+
+h1. jQuery Arrow
+
+Please see the index.html and demo.js files for examples on usage.
